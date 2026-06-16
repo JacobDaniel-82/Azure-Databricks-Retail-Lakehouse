@@ -6,6 +6,8 @@ This folder contains the architecture diagrams used to illustrate the design, da
 
 ### architecture.png
 
+(architecture)[architecture.png]
+
 Provides a high-level overview of the end-to-end solution architecture.
 
 The diagram shows how raw e-commerce data is ingested from source files stored in Azure Data Lake Storage Gen2 (ADLS Gen2), processed through Azure Databricks using the Medallion Architecture, and delivered to Power BI for analytics and reporting.
