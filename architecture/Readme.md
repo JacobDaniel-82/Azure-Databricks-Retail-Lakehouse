@@ -26,7 +26,7 @@ Key components include:
 
 ### medallion_architecture.png
 
-[](medallion_architecture.png)
+![](medallion_architecture.png)
 
 Illustrates the Medallion Architecture implemented in the project.
 
@@ -58,7 +58,7 @@ This architecture enables scalable and maintainable data processing while preser
 
 ### data_flow.png
 
-[](data_flow.png)
+![](data_flow.png)
 
 Provides a business-oriented view of the data pipeline.
 
