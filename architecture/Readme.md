@@ -6,7 +6,7 @@ This folder contains the architecture diagrams used to illustrate the design, da
 
 ### architecture.png
 
-(architecture)[architecture.png]
+[architecture](architecture.png)
 
 Provides a high-level overview of the end-to-end solution architecture.
 
@@ -25,6 +25,8 @@ Key components include:
 ---
 
 ### medallion_architecture.png
+
+[](medallion_architecture.png)
 
 Illustrates the Medallion Architecture implemented in the project.
 
@@ -54,7 +56,9 @@ This architecture enables scalable and maintainable data processing while preser
 
 ---
 
-### dataflow.png
+### data_flow.png
+
+[](data_flow.png)
 
 Provides a business-oriented view of the data pipeline.
 
