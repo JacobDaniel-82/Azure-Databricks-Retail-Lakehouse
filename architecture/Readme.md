@@ -6,7 +6,7 @@ This folder contains the architecture diagrams used to illustrate the design, da
 
 ### architecture.png
 
-[architecture](architecture.png)
+![architecture](architecture.png)
 
 Provides a high-level overview of the end-to-end solution architecture.
 
