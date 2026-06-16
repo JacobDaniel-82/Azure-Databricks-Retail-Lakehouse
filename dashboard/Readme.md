@@ -4,6 +4,8 @@ This folder contains the reporting layer for the Azure Databricks Retail Lakehou
 
 The dashboard was built using Power BI and consumes analytics-ready datasets generated from the Gold layer of the lakehouse architecture.
 
+![](/screenshots/dashboard.png)
+
 ## Dashboard Overview
 
 The Power BI dashboard provides business insights based on curated dimension and fact tables, including:
